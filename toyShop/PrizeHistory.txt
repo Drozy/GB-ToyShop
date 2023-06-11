@@ -1,0 +1,20 @@
+2023-06-12T00:11:55.504009800	id = 4, name = Машинка, amount = 19, frequency = 30
+2023-06-12T00:11:56.374359	id = 4, name = Машинка, amount = 18, frequency = 30
+2023-06-12T00:11:57.598645600	id = 6, name = Мягкая игрушка, amount = 29, frequency = 25
+2023-06-12T00:11:58.399217600	id = 6, name = Мягкая игрушка, amount = 28, frequency = 25
+2023-06-12T00:11:59.311191600	id = 5, name = Кукла, amount = 19, frequency = 20
+2023-06-12T00:12:00.166099800	id = 5, name = Кукла, amount = 18, frequency = 20
+2023-06-12T00:12:00.974151500	id = 5, name = Кукла, amount = 17, frequency = 20
+2023-06-12T00:12:01.727546100	id = 3, name = Настольная игра, amount = 9, frequency = 10
+2023-06-12T00:12:02.999980500	id = 3, name = Настольная игра, amount = 8, frequency = 10
+2023-06-12T00:12:03.999122100	id = 2, name = Конструктор, amount = 9, frequency = 10
+2023-06-12T00:12:13.559204500	id = 4, name = Машинка, amount = 17, frequency = 30
+2023-06-12T00:12:14.695682500	id = 4, name = Машинка, amount = 16, frequency = 30
+2023-06-12T00:12:15.686505600	id = 5, name = Кукла, amount = 16, frequency = 20
+2023-06-12T00:12:16.606000600	id = 1, name = Робот, amount = 14, frequency = 20
+2023-06-12T00:12:17.518674600	id = 5, name = Кукла, amount = 15, frequency = 20
+2023-06-12T00:12:18.462911900	id = 1, name = Робот, amount = 13, frequency = 20
+2023-06-12T00:12:19.359026800	id = 2, name = Конструктор, amount = 8, frequency = 10
+2023-06-12T00:12:20.375223200	id = 2, name = Конструктор, amount = 7, frequency = 10
+2023-06-12T00:12:21.543392500	id = 2, name = Конструктор, amount = 6, frequency = 10
+2023-06-12T00:12:22.503282900	id = 2, name = Конструктор, amount = 5, frequency = 10
